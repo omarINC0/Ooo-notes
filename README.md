@@ -1,3 +1,5 @@
+![App icon](Ooo-notes.png)
+
 # Ooo notes v1.5
 
 ### Rewrite of the Ooo notes project.
